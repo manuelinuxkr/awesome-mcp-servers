@@ -512,6 +512,9 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[SQLite](https://github.com/panasenco/mcp-sqlite)** - MCP server for SQLite files. Supports Datasette-compatible metadata!
 - **[Squad AI](https://github.com/the-basilisk-ai/squad-mcp)** – Product‑discovery and strategy platform integration. Create, query and update opportunities, solutions, outcomes, requirements and feedback from any MCP‑aware LLM.
 - **[Storyblok](https://github.com/Kiran1689/storyblok-mcp-server)** - Storyblok MCP server enables your AI assistants to directly access and manage your Storyblok spaces, stories, components, assets, workflows, and more.
+- - **[Storyblok](https://github.com/Kiran1689/storyblok-mcp-server)** - Storyblok MCP server enables your AI assistants...
+- **[Substrate](https://github.com/manuelinuxkr/substrate-b)** - Token-first headless browser for AI agents that extracts a semantic spatial graph instead of raw HTML, cutting token bloat by 95% and eliminating CSS selectors.
+- **[Svelte Documentation](https://github.com/khromov/llmctx)** - Remote server (SSE/Streamable) for the latest Svelte and SvelteKit documentation
 - **[Svelte Documentation](https://github.com/khromov/llmctx)** - Remote server (SSE/Streamable) for the latest Svelte and SvelteKit documentation
 - **[Task Orchestrator](https://github.com/EchoingVesper/mcp-task-orchestrator)** - AI-powered task orchestration and workflow automation with specialized agent roles, intelligent task decomposition, and seamless integration across Claude Desktop, Cursor IDE, Windsurf, and VS Code.
 - **[Tasks](https://github.com/flesler/mcp-tasks)** - An efficient task manager. Designed to minimize tool confusion and maximize LLM budget efficiency while providing powerful search, filtering, and organization capabilities across multiple file formats (Markdown, JSON, YAML)
